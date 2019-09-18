@@ -1,3 +1,3 @@
-## Practice with react, react-router-dom match.params
+## Practice with redux, react-router-dom match.params
 
 You are all awesome.
